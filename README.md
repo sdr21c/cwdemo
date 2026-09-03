@@ -3,6 +3,9 @@ Dit is een morsedecoder, speciaal bedoeld voor demonstraties aan kinderen.
 
 Deze app is gemaakt voor Windows 11. De app is gratis.
 
+De app wordt binnenkort in de praktijk getest op Makers Days in Eindhoven.
+Zie https://makerdays.nl/maker/hamradiolab-eindhoven-de-makers-van-de-ether/
+
 ## Support
 Op de app wordt geen support gegeven.
 
