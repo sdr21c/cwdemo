@@ -61,4 +61,4 @@ Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden op
 - De bedoeling is dat kinderen hun naam seinen. De app begint met in het scherm 'Sein je naam!'.
 - De app laat bij Morsealfabet alleen de letters zien, maar herkent ook cijfers en leestekens.
 - Als er niet meer geseind wordt gaat de app na 10 seconden naar een nieuwe regel voor een volgende naam. Na 2 minuten gaat het scherm weer terug naar de begintoestand.
-- Rechtsonderaan staat het versienummer van de app. Zie de CHANGELOG voor de doorgevoerde wijzigingen.
+- Rechtsonderaan staat het versienummer van de app. Zie de CHANGELOG.md voor de doorgevoerde wijzigingen.
