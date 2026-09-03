@@ -1,9 +1,7 @@
 # cwdemo
 Dit is een morsedecoder, speciaal bedoeld voor demonstraties aan kinderen.
 
-Deze app is gemaakt voor Windows 11. De app is gratis.
-
-De app wordt binnenkort in de praktijk getest op Makers Days in Eindhoven.
+De app is nog in ontwikkeling. Binnenkort wordt het in de praktijk getest op de Makers Days in Eindhoven.
 Zie https://makerdays.nl/maker/hamradiolab-eindhoven-de-makers-van-de-ether/
 
 ## Support
@@ -16,6 +14,8 @@ Gebruik van de app is op eigen verantwoording.
 Seinen kan met de linkermuis-button van een USB muis. Hierbij kan op de contacten van de button een seinsleutel (straight key) aangesloten worden. 
 
 ## Installatie
+
+Deze app is gemaakt voor Windows 11.
 
 ### Windows beveiligingsupdates
 Zorg eerst dat de PC de nieuwste Windows beveiligingsupdates heeft. Dit is straks ook nodig voor de SAC stap.
