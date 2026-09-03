@@ -1,47 +1,58 @@
 # cwdemo
+
 Dit is een morsedecoder, speciaal bedoeld voor demonstraties aan kinderen.
 
-De app is nog in ontwikkeling. Binnenkort wordt het in de praktijk getest op de Makers Days in Eindhoven.
-Zie https://makerdays.nl/maker/hamradiolab-eindhoven-de-makers-van-de-ether/
+De app is nog in ontwikkeling. Binnenkort wordt deze in de praktijk getest op de Makers Days in Eindhoven. Zie https://makerdays.nl/maker/hamradiolab-eindhoven-de-makers-van-de-ether/
 
 ## Support
+
 Op de app wordt geen support gegeven.
 
 ## Disclaimer
+
 Gebruik van de app is op eigen verantwoording.
 
 ## Muis als interface
-Seinen kan met de linkermuis-button van een USB muis. Hierbij kan op de contacten van de button een seinsleutel (straight key) aangesloten worden. 
+
+Seinen kan met de linkermuisknop van een USB-muis. Op de contacten van deze knop kan een seinsleutel (straight key) worden aangesloten.
 
 ## Installatie
 
 Deze app is gemaakt voor Windows 11.
 
-### Windows beveiligingsupdates
-Zorg eerst dat de PC de nieuwste Windows beveiligingsupdates heeft. Dit is straks ook nodig voor de SAC stap.
+### Windows-beveiligingsupdates
 
-### App en sha-256 downloaden
-De nieuwste versie van de app is te vinden onder **Releases**.
-Download daar:
-- cwdemo.exe
-- cwdemo.exe.sha256
+Zorg er eerst voor dat de pc de nieuwste Windows-beveiligingsupdates heeft. Dit is straks ook nodig voor de SAC-stap.
+
+### App en SHA-256 downloaden
+
+Download de nieuwste versie van de app en de bijbehorende SHA-256-checksum:
+
+* [Download cwdemo.exe](https://github.com/sdr21c/cwdemo/raw/refs/heads/main/cwdemo.exe)
+* [Download cwdemo.exe.sha256](https://github.com/sdr21c/cwdemo/raw/refs/heads/main/cwdemo.exe.sha256)
 
 ### SHA-256 controleren
-Deze stap is niet vereist maar het is vestandig om deze uit te voeren:
-- Open PowerShell in de map waarin het bestand staat en voer uit:
-Get-FileHash .\cwdemo.exe -Algorithm SHA256
-- Vergelijk de weergegeven SHA-256 met de checksum die bij de release staat.
+
+Deze stap is niet vereist, maar het is verstandig om deze uit te voeren:
+
+* Open PowerShell in de map waarin het bestand staat en voer uit: `Get-FileHash .\cwdemo.exe -Algorithm SHA256`
+* Vergelijk de weergegeven SHA-256 met de waarde in `cwdemo.exe.sha256`.
 
 ### App uitvoeren
-Start de app. De app werkt full-screen, met Esc kun je het sluiten.
-De app is niet ondertekend met een certificaat, daarom kun je beveiligingswaarschuwingen krijgen of een melding dat de app geblokkeerd wordt. Zie hieronder.
 
-#### Smart Screen melding
-Bij deze melding kun je kiezen dat de app toch uitgevoerd mag worden.
+Start de app. De app werkt op volledig scherm. Met Esc kun je de app sluiten.
 
-#### Smart Screen Control (SCA) melding.
-Het kan zijn dat de app geblokkeerd wordt met een SCA melding. Dit kan opgelost worden door SCA, al of niet tijdelijk, uit te schakelen, als volgt (alles op eigen verantwoording, en dus nadat de nieuwste Windows updates zijn binnengehaald):
-- Open Start en zoek naar Windows-beveiliging.
-- Kies App- en browserbeheer.
-- Klik op Instellingen voor Smart App Control.
-- Selecteer Uit
+De app is niet ondertekend met een certificaat. Daarom kun je beveiligingswaarschuwingen krijgen of een melding dat de app wordt geblokkeerd. Zie hieronder.
+
+#### SmartScreen-melding
+
+Bij deze melding kun je ervoor kiezen de app toch uit te voeren.
+
+#### Smart App Control (SAC)-melding
+
+Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden opgelost door SAC, al dan niet tijdelijk, uit te schakelen. Dit gaat als volgt (alles op eigen verantwoording en dus nadat de nieuwste Windows-updates zijn binnengehaald):
+
+* Open Start en zoek naar **Windows-beveiliging**.
+* Kies **App- en browserbeheer**.
+* Klik op **Instellingen voor Smart App Control**.
+* Selecteer **Uit**.
