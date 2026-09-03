@@ -26,10 +26,16 @@ Zorg er eerst voor dat de pc de nieuwste Windows-beveiligingsupdates heeft. Dit 
 
 ### App en SHA-256 downloaden
 
-De nieuwste versie van de app kan worden gedownload via GitHub Releases.
-Download daar:
-- cwdemo.exe
-- cwdemo.exe.sha256
+## Download
+
+[**Download de nieuwste versie van cwdemo**](https://github.com/sdr21c/cwdemo/releases/latest)
+
+Download onder **Assets**:
+- `cwdemo.exe`
+- `cwdemo.exe.sha256`
+
+De bestanden `Source code (zip)` en `Source code (tar.gz)` zijn
+automatisch door GitHub aangemaakt en zijn niet nodig om de app te gebruiken.
 
 Bekijk de changelog om te zien wat er in de verschillende versies is gewijzigd.
 
@@ -37,7 +43,6 @@ Bekijk de changelog om te zien wat er in de verschillende versies is gewijzigd.
 
 Deze stap is niet vereist, maar het is verstandig om deze uit te voeren:
 
-- Download cwdemo.exe en cwdemo.exe.sha256.
 - Open PowerShell in de map waarin de bestanden staan.
 - Voer uit: Get-FileHash .\cwdemo.exe -Algorithm SHA256
 - Vergelijk de weergegeven SHA-256 met de waarde in cwdemo.exe.sha256.
