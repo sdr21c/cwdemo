@@ -14,7 +14,7 @@ Gebruik van de app is op eigen verantwoording.
 
 ## Muis als interface
 
-Seinen kan met de linkermuisknop van een USB-muis. Op de contacten van deze knop kan een seinsleutel (straight key) worden aangesloten.
+Seinen kan met een seinsleutel (straight key) die aangesloten is op de contacten van de linkermuisknop van een USB-muis.
 
 ## Installatie
 
