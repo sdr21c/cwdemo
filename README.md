@@ -10,7 +10,7 @@ Op de app wordt geen support gegeven.
 
 ## Disclaimer
 
-Gebruik van de app is op eigen verantwoording.
+Gebruik van de app is op eigen verantwoording. Dit geldt dus ook voor de adviezen bepaalde Windows-beveiligingen uit te schakelen.
 
 ## Muis als interface
 
@@ -57,7 +57,7 @@ Bij deze melding kun je ervoor kiezen de app toch uit te voeren.
 
 #### Smart App Control (SAC)-melding
 
-Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden opgelost door SAC, al dan niet tijdelijk, uit te schakelen. Dit gaat als volgt (alles op eigen verantwoording en dus nadat de nieuwste Windows-updates zijn binnengehaald):
+Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden opgelost door SAC, al dan niet tijdelijk, uit te schakelen. Dit gaat als volgt:
 
 * Open Start en zoek naar **Windows-beveiliging**.
 * Kies **App- en browserbeheer**.
