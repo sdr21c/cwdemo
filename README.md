@@ -2,7 +2,7 @@
 
 Dit is een morsedecoder, speciaal bedoeld voor demonstraties aan kinderen.
 
-De app is nog in ontwikkeling. Binnenkort wordt deze in de praktijk getest op de Makers Days in Eindhoven. Zie https://makerdays.nl/maker/hamradiolab-eindhoven-de-makers-van-de-ether/
+De app is nog in ontwikkeling, en nog niet in de praktijk getest.
 
 ## Support
 
