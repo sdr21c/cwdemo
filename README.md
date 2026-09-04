@@ -10,7 +10,7 @@ Op de app wordt geen support gegeven.
 
 ## Disclaimer
 
-Gebruik van de app is op eigen verantwoording. Dit geldt dus ook voor de adviezen bepaalde Windows-beveiligingen uit te schakelen.
+Gebruik van de app en wat daarbij komt kijken is op eigen verantwoording.
 
 ## Muis als interface
 
