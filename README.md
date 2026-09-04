@@ -26,8 +26,6 @@ Zorg er eerst voor dat de pc de nieuwste Windows-beveiligingsupdates heeft. Dit 
 
 ### App en SHA-256 downloaden
 
-## Download
-
 [**Download de nieuwste versie van cwdemo**](https://github.com/sdr21c/cwdemo/releases/latest)
 
 Download onder **Assets**:
