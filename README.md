@@ -2,8 +2,6 @@
 
 Dit is een morsedecoder, speciaal bedoeld voor demonstraties aan kinderen.
 
-De app is nog in ontwikkeling, en nog niet in de praktijk getest.
-
 ## Support
 
 Op de app wordt geen support gegeven.
