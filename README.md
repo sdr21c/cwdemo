@@ -1,6 +1,7 @@
 # cwdemo
 
 Dit is een morsedecoder, speciaal bedoeld voor demonstraties aan kinderen.
+De app is nog in ontwikkeling.
 
 ## Support
 
