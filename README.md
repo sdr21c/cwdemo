@@ -46,9 +46,13 @@ Deze stap is niet vereist, maar het is verstandig om deze uit te voeren:
 
 ### App uitvoeren
 
-Start de app. De app werkt op volledig scherm. Met Esc kun je de app sluiten.
+Start de app. De app werkt op volledig scherm.
 
 De app is niet ondertekend met een certificaat. Daarom kun je beveiligingswaarschuwingen krijgen, of een melding dat de app wordt geblokkeerd. Zie hieronder.
+
+### App stoppen
+
+De app kan gestopt worden met de Esc-toets.
 
 #### SmartScreen-melding
 
