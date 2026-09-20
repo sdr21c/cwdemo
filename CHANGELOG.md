@@ -3,7 +3,7 @@
 Hier worden de wijzigingen per versie van cwdemo bijgehouden.
 
 ## v0.1.3
-- Rechtermuisknop kan nu gebruikt worden voor wissen laatste teken (kort drukken) of naar beginscherm te gaan (lang drukken).
+- Rechtermuisknop kan nu gebruikt worden voor wissen laatste teken (kort drukken) of naar beginscherm gaan (lang drukken).
 
 ## v0.1.1
 
