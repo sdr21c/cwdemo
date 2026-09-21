@@ -36,7 +36,7 @@ automatisch door GitHub aangemaakt en zijn niet nodig om de app te gebruiken.
 
 Bekijk de changelog om te zien wat er in de verschillende versies is gewijzigd.
 
-## Authenticiteit en veiligheid
+### Authenticiteit en veiligheid
 
 De enige officiële versies van cwdemo worden gepubliceerd via:
 https://github.com/sdr21c/cwdemo
