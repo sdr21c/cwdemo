@@ -44,7 +44,9 @@ https://github.com/sdr21c/cwdemo
 cwdemo mag in ongewijzigde vorm door anderen worden verspreid. Als je cwdemo.exe via een andere website, downloadlocatie of persoon hebt ontvangen, kun je controleren of het bestand identiek is aan de officiële versie.
 
 Bij iedere officiële release wordt de SHA-256-controlesom van cwdemo.exe gepubliceerd. Controleer het gedownloade bestand in PowerShell met:
+
 Get-FileHash .\cwdemo.exe -Algorithm SHA256
+
 Vergelijk de weergegeven SHA-256 uitsluitend met de waarde die bij de overeenkomstige officiële release op bovenstaande GitHub-repository staat.
 Komt de SHA-256 niet exact overeen, gebruik het bestand dan niet. Het bestand is dan niet identiek aan de officiële versie van cwdemo.
 Een SHA-256-bestand dat samen met cwdemo.exe van een andere bron is verkregen, is op zichzelf geen bewijs dat het bestand een officiële versie is.
