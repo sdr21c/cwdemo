@@ -38,10 +38,7 @@ Bekijk de changelog om te zien wat er in de verschillende versies is gewijzigd.
 
 ### Authenticiteit en veiligheid
 
-De enige officiële versies van cwdemo worden gepubliceerd via:
-https://github.com/sdr21c/cwdemo
-
-cwdemo mag in ongewijzigde vorm door anderen worden verspreid. Als je cwdemo.exe via een andere website, downloadlocatie of persoon hebt ontvangen, kun je controleren of het bestand identiek is aan de officiële versie.
+Download cwdemo.exe uitsluitend via de officiële releases van deze repository.
 
 Bij iedere officiële release wordt de SHA-256-controlesom van cwdemo.exe gepubliceerd. Controleer het gedownloade bestand in PowerShell met:
 
@@ -73,6 +70,12 @@ Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden op
 * Kies **App- en browserbeheer**.
 * Klik op **Instellingen voor Smart App Control**.
 * Selecteer **Uit**.
+
+### Download en verspreiding
+
+Het opnieuw aanbieden, uploaden of verspreiden van cwdemo.exe via andere websites, repositories of andere kanalen is niet toegestaan. Verwijzen of linken naar deze GitHub-repository is uiteraard wel toegestaan.
+
+Zie LICENSE.txt voor de volledige licentievoorwaarden.
 
 ## Gebruik
 - De bedoeling is dat kinderen hun naam seinen. De app begint met in het scherm 'Sein je naam!'.
