@@ -75,7 +75,6 @@ Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden op
 
 Het opnieuw aanbieden, uploaden of verspreiden van cwdemo.exe via andere websites, repositories of andere kanalen is niet toegestaan. Verwijzen of linken naar deze GitHub-repository is uiteraard wel toegestaan.
 
-Zie LICENSE.txt voor de volledige licentievoorwaarden.
 
 ## Gebruik
 - De bedoeling is dat kinderen hun naam seinen. De app begint met in het scherm 'Sein je naam!'.
