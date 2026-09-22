@@ -31,9 +31,6 @@ Download onder **Assets**:
 - `cwdemo.exe`
 - `cwdemo.exe.sha256`
 
-De bestanden `Source code (zip)` en `Source code (tar.gz)` zijn
-automatisch door GitHub aangemaakt en zijn niet nodig om de app te gebruiken.
-
 Bekijk de changelog om te zien wat er in de verschillende versies is gewijzigd.
 
 ### Authenticiteit en veiligheid
