@@ -51,10 +51,6 @@ Start de app. De app werkt op volledig scherm.
 
 De app is niet ondertekend met een certificaat. Daarom kun je beveiligingswaarschuwingen krijgen, of een melding dat de app wordt geblokkeerd. Zie hieronder.
 
-### App stoppen
-
-De app kan gestopt worden met de Esc-toets.
-
 #### SmartScreen-melding
 
 Bij deze melding kun je ervoor kiezen de app toch uit te voeren.
@@ -67,6 +63,10 @@ Het kan zijn dat de app wordt geblokkeerd met een SAC-melding. Dit kan worden op
 * Kies **App- en browserbeheer**.
 * Klik op **Instellingen voor Smart App Control**.
 * Selecteer **Uit**.
+
+### App stoppen
+
+De app kan gestopt worden met de Esc-toets.
 
 ### Download en verspreiding
 
