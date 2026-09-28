@@ -2,6 +2,9 @@
 
 Hier worden de wijzigingen per versie van cwdemo bijgehouden.
 
+## v0.1.5
+- Het voorbeeld hoe te seinen in animated gif is verwijderd.
+
 ## v0.1.4
 - Probleem met te laat inschakelen geluid opgelost.
 
